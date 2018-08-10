@@ -1,10 +1,9 @@
 # e-commerce-myc
 ionic-ecommerce-landing-page
 
+In the Project folder.
 
 `npm install`
-
-`cd e-commerce-myc`
 
 `ionic serve`
 
