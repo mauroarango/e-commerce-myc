@@ -1,0 +1,7 @@
+{
+  "name": "ionic start e-commerce-myc",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
